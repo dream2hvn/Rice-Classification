@@ -1,0 +1,8 @@
+tensorflow==2.19.0
+tensorflowjs==4.22.0
+numpy==2.0.2
+matplotlib==3.10.0
+Pillow==11.1.0
+pathlib==1.0.1
+IPython==7.34.0
+kaggle==1.7.4.2
